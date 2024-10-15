@@ -1,0 +1,7 @@
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.AssemblyInfoInputs.cache
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.AssemblyInfo.cs
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.csproj.CoreCompileInputs.cache
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.RazorAssemblyInfo.cache
+C:\Users\luisMndz\source\repos\ProyectoHospiPet\ProyectoHospiPet\obj\Debug\net8.0\ProyectoHospiPet.RazorAssemblyInfo.cs
